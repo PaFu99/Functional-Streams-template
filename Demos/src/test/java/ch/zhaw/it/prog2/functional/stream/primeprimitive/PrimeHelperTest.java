@@ -1,10 +1,11 @@
-package ch.zhaw.it.prog2.functional.stream.primeprimitive;
+package java.ch.zhaw.it.prog2.functional.stream.primeprimitive;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 import org.junit.jupiter.params.provider.ValueSource;
+import stream.primeprimitive.PrimeHelper;
 
 import java.util.List;
 import java.util.OptionalLong;

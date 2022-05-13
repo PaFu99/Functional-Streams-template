@@ -1,4 +1,4 @@
-package ch.zhaw.it.prog2.functional.stream;
+package stream;
 
 import java.util.Iterator;
 import java.util.List;

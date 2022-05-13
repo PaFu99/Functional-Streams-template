@@ -1,4 +1,4 @@
-package ch.zhaw.it.prog2.functional.stream;
+package stream;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;

@@ -1,4 +1,4 @@
-package ch.zhaw.it.prog2.functional.stream.primeprimitive;
+package stream.primeprimitive;
 
 import java.util.OptionalLong;
 import java.util.stream.LongStream;

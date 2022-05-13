@@ -1,4 +1,4 @@
-package ch.zhaw.it.prog2.functional.stream.primeprimitive;
+package stream.primeprimitive;
 
 import java.time.Duration;
 import java.time.Instant;
